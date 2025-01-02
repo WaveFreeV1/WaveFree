@@ -1,0 +1,6 @@
+Steps: 
+Step 1: Go to windows settings and turn off your real time protection
+
+Step 2: Download WaveFree
+
+Step 3: Double click to run WaveFree and start the installation proccess.
